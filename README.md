@@ -107,6 +107,7 @@ I am at Pwani University Programming class
 
 Forking 
 
+
 Pwani University 
 
 ## Njagi
@@ -148,3 +149,6 @@ I am a Bioinformatics Intern at ICIPE
 A die hard Arsenal fan!
 
 
+## Faith Ndung'u
+
+Enjoying the intense BOSS training.
